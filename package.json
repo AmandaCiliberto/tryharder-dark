@@ -1,0 +1,21 @@
+{
+  "name": "try-harder",
+  "displayName": "Try Harder",
+  "description": "'hardcore dark theme made by @amadaciliberto'",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Try Harder",
+        "uiTheme": "hc-black",
+        "path": "./themes/try-harder-color-theme.json"
+      }
+    ]
+  }
+}
