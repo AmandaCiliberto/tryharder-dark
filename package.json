@@ -29,5 +29,6 @@
     "cat theme",
     "pink theme",
     "cozy theme"
-  ]
+  ],
+  "icon": "icon.png"
 }
