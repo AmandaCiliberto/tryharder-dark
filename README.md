@@ -1,15 +1,16 @@
-# ✨ Try Harder — A Cozy, Whimsical VS Code Theme  
-*A magical coding atmosphere inspired by soft candlelight, fuzzy blankets, warm tea, and late-night witchy vibes.*
+# ✨ Try Harder — A Cozy, Whimsical VS Code Theme
+
+_A magical coding atmosphere inspired by soft candlelight, fuzzy blankets, warm tea, and late-night witchy vibes._
 
 Try Harder is a lovingly crafted dark theme designed to make your coding sessions feel **soft, dreamy, and comforting** — like sitting under a pink fluffy blanket with your favorite warm drink while your familiar cat watches you debug spells at midnight.
 
 This theme combines:
 
-- 💜 muted plum and lavender backgrounds  
-- 💛 candle-gold highlights  
-- 💗 cozy pink accents inspired by fluffy blankets  
-- 🧙‍♀️ magical teal + starlight cream for syntax  
-- 🌙 gentle contrast optimized for long late-night sessions  
+- 💜 muted plum and lavender backgrounds
+- 💛 candle-gold highlights
+- 💗 cozy pink accents inspired by fluffy blankets
+- 🧙‍♀️ magical teal + starlight cream for syntax
+- 🌙 gentle contrast optimized for long late-night sessions
 
 If you want a theme that feels **calming, whimsical, and slightly enchanted**, you're home.
 
@@ -19,16 +20,16 @@ If you want a theme that feels **calming, whimsical, and slightly enchanted**, y
 
 Here's a preview of the Try Harder theme in action:
 
-![Try Harder Theme Screenshot](./images/tryharderimage.png)
+![Try Harder Theme Screenshot 1](./images/image1.png)
 
 ---
 
 ## 🚀 Installation
 
-1. Open the **Extensions** view in VS Code  
-2. Search for **"Try Harder Theme"**  
-3. Install  
-4. Open Command Palette → `Preferences: Color Theme`  
+1. Open the **Extensions** view in VS Code
+2. Search for **"Try Harder Theme"**
+3. Install
+4. Open Command Palette → `Preferences: Color Theme`
 5. Select **Try Harder**
 
 ---
@@ -67,4 +68,3 @@ Inspired by cozy-witch aesthetics, pastel candlelight, autumn evenings, plush bl
 Found a bug? Have an idea?
 Feel free to open an issue or create a pull request on GitHub.
 Your feedback helps this theme grow its magical powers. ✨
-
