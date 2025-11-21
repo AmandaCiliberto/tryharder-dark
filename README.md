@@ -19,7 +19,7 @@ If you want a theme that feels **calming, whimsical, and slightly enchanted**, y
 
 Here's a preview of the Try Harder theme in action:
 
-![Try Harder Theme Screeshot](./images/tryharderimage.png)
+![Try Harder Theme Screenshot](./images/tryharderimage.png)
 
 ---
 
