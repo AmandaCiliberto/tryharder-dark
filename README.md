@@ -25,8 +25,6 @@ Here's a preview of the Try Harder theme in action:
 
 ## 🚀 Installation
 
-Once available on the Marketplace:
-
 1. Open the **Extensions** view in VS Code  
 2. Search for **"Try Harder Theme"**  
 3. Install  
