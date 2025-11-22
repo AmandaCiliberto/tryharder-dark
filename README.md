@@ -14,6 +14,8 @@ This theme combines:
 
 If you want a theme that feels **calming, whimsical, and slightly enchanted**, you're home.
 
+[✨ Try it online in VS Code Web](https://vscode.dev/editor/theme/Amandaciliro.try-harder/Try%20Harder)
+
 ---
 
 ## 📸 Preview
